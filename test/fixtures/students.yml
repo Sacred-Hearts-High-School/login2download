@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  'no': MyString
+  pid: MyString
+  login_at: 2014-02-17 20:49:59
+
+two:
+  name: MyString
+  'no': MyString
+  pid: MyString
+  login_at: 2014-02-17 20:49:59
